@@ -1,0 +1,62 @@
+/*.mother_div{
+    margin: 30px 10px 20px 10px;
+}*/
+*{
+    margin: 30px 10px 20px 10px;}
+.card_div{
+    margin: 0px;
+    padding: 0px;
+    color:#FEF6F4;
+    background-color: #FF4646;
+    display: inline-block;
+    height: 170px;
+    width: 280px;
+    border-radius: 10px;
+    box-shadow:
+        0px 4px 6px rgba(0, 0, 0, 0.2), /* Top shadow */
+        0px 4px 6px rgba(0, 0, 0, 0.2), /* Bottom shadow */
+        4px 0px 6px rgba(0, 0, 0, 0.2), /* Right shadow */
+        4px 0px 6px rgba(0, 0, 0, 0.2); /* Left shadow */
+}
+.logo{
+    margin: 0px;
+    padding: 0px;
+    height: 30px;
+    width:40%;
+    display:inline-block;
+
+}
+
+.oxyzen{
+    margin: 0px;
+    padding: 0px;
+    display:inline-block;
+    height: 30px;
+    width:50%;
+    text-align: top-right;
+
+}
+.card_number{
+    margin: 0px;
+    padding: 0px;
+    display:inline-block;
+}
+.balance{margin: 0px;
+    padding: 0px;
+    display:inline-block;
+}
+
+
+
+.text_div{
+    margin: 0px;
+    padding: 0px;
+    display:inline-block;
+    height: 170px;
+    width:400px;
+    font-size: 45px;
+    text-align:end;
+    color:#FF4646;
+    font-weight:200px;
+
+}
